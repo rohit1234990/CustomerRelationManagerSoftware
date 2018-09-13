@@ -1,0 +1,56 @@
+g:\Projects\CustomerRelationManager\CustomerRelationManager\bin\Debug\CustomerRelationManager.exe
+g:\Projects\CustomerRelationManager\CustomerRelationManager\bin\Debug\CustomerRelationManager.pdb
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\ResolveAssemblyReference.cache
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.Properties.Resources.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\GenerateResource.read.1.tlog
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\GenerateResource.write.1.tlog
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.exe
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.pdb
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmMain.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmCustomer.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmSalesman.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmBrand.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmProduct.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmAMC.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmCreateReminder.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\bin\Debug\db\Database.sdf
+g:\Projects\CustomerRelationManager\CustomerRelationManager\bin\Debug\CustomerRelationManager.exe.config
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.ViewReminder.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmEditor.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmScheduleNextVisit.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmItems.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmEditQty.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmSale.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmReport.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmLogin.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmQuery.resources
+g:\Projects\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmReset.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\bin\Debug\CustomerRelationManager.exe.config
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.exe
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.pdb
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.csprojResolveAssemblyReference.cache
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmAMC.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmBrand.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmCreateReminder.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmCustomer.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmEditor.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmEditQty.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmItems.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmLogin.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmMain.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmProduct.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmQuery.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmReport.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmReset.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmSale.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmSalesman.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.frmScheduleNextVisit.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.Properties.Resources.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.ViewReminder.resources
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.csproj.GenerateResource.Cache
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\bin\Debug\db\Database.sdf
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\bin\Debug\CustomerRelationManager.exe
+F:\Final Setup And Code\CustomerRelationManager\CustomerRelationManager\bin\Debug\CustomerRelationManager.pdb
+D:\CustomerRelationManager\CustomerRelationManager\bin\Debug\CustomerRelationManager.exe.config
+D:\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.exe
+D:\CustomerRelationManager\CustomerRelationManager\obj\x86\Debug\CustomerRelationManager.pdb
